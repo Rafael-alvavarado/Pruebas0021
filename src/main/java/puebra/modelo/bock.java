@@ -13,7 +13,6 @@ public class bock {
     private String author;
     private String genre;
     private String addres;
-    @Column
     private String isbn;
 
 
