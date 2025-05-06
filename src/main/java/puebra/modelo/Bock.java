@@ -12,7 +12,7 @@ public class Bock {
     private String title;
     private String author;
     private String genre;
-    private String addres;
+    private String address;
     private String isbn;
 
 
